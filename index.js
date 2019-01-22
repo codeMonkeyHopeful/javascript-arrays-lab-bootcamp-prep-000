@@ -31,3 +31,5 @@ function prependKitten(name){
   return arr;
 }
 
+removeLastKitten()
+
